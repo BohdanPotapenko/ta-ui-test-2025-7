@@ -1,0 +1,22 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:734f3af6c28f59a635b0904e4816c18f:2c7ba7099f3d34149feaeb1557c53b7f:1bc9e669984a578527d791bf383f9f3a$
+#
+:format=40300
+:texture=ButtonPanel.png
+:size=2048x512
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Bar;321;84;274;67; 0.5;0.5; 0;0;0;0
+BG;1;157;598;354; 0.5;0.5; 0;0;0;0
+ButtonAutospin;605;13;543;239; 0.5;0.5; 0;0;0;0
+ButtonNormal;605;258;543;253; 0.5;0.5; 0;0;0;0
+ButtonPressed;1154;272;543;239; 0.5;0.5; 0;0;0;0
+Energy;1;6;51;59; 0.5;0.5; 0;0;0;0
+ExtraPanel;1;71;314;80; 0.5;0.5; 0;0;0;0
